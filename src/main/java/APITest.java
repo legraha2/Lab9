@@ -14,7 +14,7 @@ import org.json.JSONObject;
  */
 public class APITest {
 
-    /** Subscription key. Replace with your API key. */
+    /** Subscription key. Replace with your API key.  */
     private static final String SUBSCRIPTION_KEY =
             "c802ef8502b744c7917aa6d354c52bef";
 
